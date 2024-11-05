@@ -1,0 +1,10 @@
+python==3.12.2
+pandas>=1.0
+numpy>=1.18
+dask[distributed]>=2022.02.0
+scipy>=1.5
+scanpy>=1.8.0
+pybiomart>=0.2.6
+arboreto>=0.1.0
+statsmodels>=0.12.0
+scikit-learn>=0.24.0

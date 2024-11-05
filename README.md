@@ -1,4 +1,4 @@
-# Your Package Name
+# GRN_FDR
 
 ## Overview
 
@@ -187,6 +187,6 @@ Contributions are welcome! If you would like to contribute to this package, plea
 
 For any inquiries or feedback, please contact:
 
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [Your GitHub Profile](https://github.com/your-github-profile)
+- **Souptik Sen** - [souptik.sen@fau.de](mailto:souptik.sen@fau.de)
+- GitHub: [My GitHub Profile](https://github.com/souptik69)
 

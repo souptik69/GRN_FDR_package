@@ -4,6 +4,7 @@
 
 This package provides tools for preprocessing gene expression data, computing gene regulatory networks (GRNs), calculating distance matrices, clustering genes, and performing False Discovery Rate (FDR) calculations.
 
+![Proposed Architecture](Arch_Proposed_8.png)
 ## Installation
 
 To install the package, you can use pip:
